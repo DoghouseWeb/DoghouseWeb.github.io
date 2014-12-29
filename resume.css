@@ -1,0 +1,47 @@
+@charset "UTF-8";
+body {
+	background-color:#EBE4D8;
+}
+* {
+	font-family:futura, Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;	
+}
+#header {
+	text-align: center;
+	border-bottom: 3px solid;
+	margin-top: 40px;
+}
+#objective {
+	text-align: center;	
+	border-bottom: 1px solid;
+}
+#skills {
+	text-align: right;	
+}
+.nobullet {
+	list-style-type: none;	
+}
+h1 {
+	font-size: 50px;	
+}
+#experience {
+	border-left: 1px solid;	
+}
+.title {
+	color:#1C93A6;
+}
+#skilllist {
+	font-size: 20px;	
+}
+.date {
+	float: right;
+}
+li h4 {
+	border-bottom: 1px solid;	
+
+}
+#experience h4 {
+	margin-top: 30px;	
+}
+#experience .nobullet {
+	margin-bottom: 40px;	
+}
